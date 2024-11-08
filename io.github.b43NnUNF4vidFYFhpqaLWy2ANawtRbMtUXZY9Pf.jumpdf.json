@@ -22,6 +22,7 @@
                 "-DBUILD_QT6_TESTS=OFF",
                 "-DBUILD_MANUAL_TESTS=OFF",
                 "-DENABLE_UTILS=OFF",
+                "-DENABLE_GOBJECT_INTROSPECTION=OFF",
                 "-DENABLE_GTK_DOC=OFF",
                 "-DENABLE_QT5=OFF",
                 "-DENABLE_QT6=OFF",
@@ -30,8 +31,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://poppler.freedesktop.org/poppler-24.08.0.tar.xz",
-                    "sha256": "97453fbddf0c9a9eafa0ea45ac710d3d49bcf23a62e864585385d3c0b4403174"
+                    "url": "https://poppler.freedesktop.org/poppler-24.11.0.tar.xz",
+                    "sha256": "7723d880565211740c13649d24a300257b86ddd7fa2d208187ff7e5cc8dfbd58"
                 }
             ],
             "modules": [
@@ -62,7 +63,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "tag": "v1.0.2",
+                    "tag": "v1.1.0",
                     "url": "https://github.com/b43NnUNF4vidFYFhpqaLWy2ANawtRbMtUXZY9Pf/jumpdf.git"
                 }
             ]
