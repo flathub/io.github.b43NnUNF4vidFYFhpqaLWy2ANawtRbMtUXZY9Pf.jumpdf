@@ -69,8 +69,8 @@
             "sources": [
                 {
                     "type": "git",
-                    "tag": "v1.1.0",
-                    "url": "https://github.com/b43NnUNF4vidFYFhpqaLWy2ANawtRbMtUXZY9Pf/jumpdf.git"
+                    "tag": "v1.2.0",
+                    "url": "https://github.com/aaeioua/jumpdf.git"
                 }
             ]
         }
